@@ -46,7 +46,7 @@ def createCode():
     from urllib.request import urlopen
     from bs4 import BeautifulSoup as BS
 
-    http    = "file:///Users/jpatiani/Documents/Script/Data/Akademik/SKur_SIX.html"
+    http    = ["GANTI DENGAN FILE HASIL DOWNLOAD DARI SIX"]
     soup    = BS(urlopen(http).read())
     optfak  = list(soup.find("select", id="fakultas").stripped_strings)
     optgrp  = soup.find_all('optgroup')
@@ -72,7 +72,7 @@ def createCode():
         json.dump(code, f, indent=4)
 
 def statusAdvisor(v, **kwargs):
-    w   = kwargs.get("target", "Dr. Nurjanna Joko Trilaksono, S.Si., M.Si.")
+    w   = kwargs.get("target", ["GANTI DENGAN NAMA YANG INGIN DIPROSES"])
     if v.find(w) == 0:
         stat    = "Utama"
     else:
@@ -112,13 +112,12 @@ with open(cFile) as f:
     code = json.load(f)
 
 sixInput        = sys.argv[1]
-#sixInput = "/Users/jpatiani/Documents/Script/Data/Akademik/DaftarMahasiswaBimbingan_akses20210527.html"
 tbl             = pd.read_html(sixInput)
 df              = tbl[0]
 """
 struct: nama, angkatan, tahun lulus, status pembimbing, jenjang, judul
 """
-whoami          = "Dr. Nurjanna Joko Trilaksono, S.Si., M.Si."
+whoami          = ["GANTI DENGAN NAMA YANG INGIN DIPROSES"]
 df["Angkatan"]  = df["NIM"].apply(lambda v: "20"+str(v)[3:5])
 df["Lulus"]     = df["Tanggal Sidang"].apply(lambda v: str(v)[-4:])
 df["Status"]    = df["Pembimbing"].apply(statusAdvisor, target=whoami)
