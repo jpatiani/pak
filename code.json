@@ -1,0 +1,1004 @@
+{
+    "101": {
+        "Nama": "Matematika",
+        "Akro": "MA",
+        "Jenjang": "S1",
+        "Fakultas": "FMIPA"
+    },
+    "102": {
+        "Nama": "Fisika",
+        "Akro": "FI",
+        "Jenjang": "S1",
+        "Fakultas": "FMIPA"
+    },
+    "103": {
+        "Nama": "Astronomi",
+        "Akro": "AS",
+        "Jenjang": "S1",
+        "Fakultas": "FMIPA"
+    },
+    "105": {
+        "Nama": "Kimia",
+        "Akro": "KI",
+        "Jenjang": "S1",
+        "Fakultas": "FMIPA"
+    },
+    "108": {
+        "Nama": "Aktuaria",
+        "Akro": "AK",
+        "Jenjang": "S1",
+        "Fakultas": "FMIPA"
+    },
+    "160": {
+        "Nama": "Tahap Tahun Pertama FMIPA",
+        "Akro": "TTPF",
+        "Jenjang": "S1",
+        "Fakultas": "FMIPA"
+    },
+    "201": {
+        "Nama": "Matematika",
+        "Akro": "MA",
+        "Jenjang": "S2",
+        "Fakultas": "FMIPA"
+    },
+    "202": {
+        "Nama": "Fisika",
+        "Akro": "FI",
+        "Jenjang": "S2",
+        "Fakultas": "FMIPA"
+    },
+    "203": {
+        "Nama": "Astronomi",
+        "Akro": "AS",
+        "Jenjang": "S2",
+        "Fakultas": "FMIPA"
+    },
+    "205": {
+        "Nama": "Kimia",
+        "Akro": "KI",
+        "Jenjang": "S2",
+        "Fakultas": "FMIPA"
+    },
+    "208": {
+        "Nama": "Aktuaria",
+        "Akro": "AK",
+        "Jenjang": "S2",
+        "Fakultas": "FMIPA"
+    },
+    "209": {
+        "Nama": "Sains Komputasi",
+        "Akro": "SK",
+        "Jenjang": "S2",
+        "Fakultas": "FMIPA"
+    },
+    "246": {
+        "Nama": "Pengajaran Matematika",
+        "Akro": "MA",
+        "Jenjang": "S2",
+        "Fakultas": "FMIPA"
+    },
+    "247": {
+        "Nama": "Pengajaran Fisika",
+        "Akro": "FI",
+        "Jenjang": "S2",
+        "Fakultas": "FMIPA"
+    },
+    "248": {
+        "Nama": "Pengajaran Kimia",
+        "Akro": "KI",
+        "Jenjang": "S2",
+        "Fakultas": "FMIPA"
+    },
+    "249": {
+        "Nama": "Ilmu dan Rekayasa Nuklir",
+        "Akro": "RN",
+        "Jenjang": "S2",
+        "Fakultas": "FMIPA"
+    },
+    "301": {
+        "Nama": "Matematika",
+        "Akro": "MA",
+        "Jenjang": "S3",
+        "Fakultas": "FMIPA"
+    },
+    "302": {
+        "Nama": "Fisika",
+        "Akro": "FI",
+        "Jenjang": "S3",
+        "Fakultas": "FMIPA"
+    },
+    "303": {
+        "Nama": "Astronomi",
+        "Akro": "AS",
+        "Jenjang": "S3",
+        "Fakultas": "FMIPA"
+    },
+    "305": {
+        "Nama": "Kimia",
+        "Akro": "KI",
+        "Jenjang": "S3",
+        "Fakultas": "FMIPA"
+    },
+    "349": {
+        "Nama": "Rekayasa Nuklir",
+        "Akro": "RN",
+        "Jenjang": "S3",
+        "Fakultas": "FMIPA"
+    },
+    "104": {
+        "Nama": "Mikrobiologi",
+        "Akro": "BM",
+        "Jenjang": "S1",
+        "Fakultas": "SITH"
+    },
+    "106": {
+        "Nama": "Biologi",
+        "Akro": "BI",
+        "Jenjang": "S1",
+        "Fakultas": "SITH"
+    },
+    "112": {
+        "Nama": "Rekayasa Hayati",
+        "Akro": "BE",
+        "Jenjang": "S1",
+        "Fakultas": "SITH"
+    },
+    "114": {
+        "Nama": "Rekayasa Pertanian",
+        "Akro": "BA",
+        "Jenjang": "S1",
+        "Fakultas": "SITH"
+    },
+    "115": {
+        "Nama": "Rekayasa Kehutanan",
+        "Akro": "BW",
+        "Jenjang": "S1",
+        "Fakultas": "SITH"
+    },
+    "119": {
+        "Nama": "Teknologi Pasca Panen",
+        "Akro": "PP",
+        "Jenjang": "S1",
+        "Fakultas": "SITH"
+    },
+    "161": {
+        "Nama": "Tahap Tahun Pertama SITH Program Sains",
+        "Akro": "TTPSPS",
+        "Jenjang": "S1",
+        "Fakultas": "SITH"
+    },
+    "198": {
+        "Nama": "Tahap Tahun Pertama SITH Program Rekayasa",
+        "Akro": "TTPSPR",
+        "Jenjang": "S1",
+        "Fakultas": "SITH"
+    },
+    "206": {
+        "Nama": "Biologi",
+        "Akro": "BI",
+        "Jenjang": "S2",
+        "Fakultas": "SITH"
+    },
+    "211": {
+        "Nama": "Bioteknologi",
+        "Akro": "BT",
+        "Jenjang": "S2",
+        "Fakultas": "SITH"
+    },
+    "213": {
+        "Nama": "Biomanajemen",
+        "Akro": "BP",
+        "Jenjang": "S2",
+        "Fakultas": "SITH"
+    },
+    "306": {
+        "Nama": "Biologi",
+        "Akro": "BI",
+        "Jenjang": "S3",
+        "Fakultas": "SITH"
+    },
+    "107": {
+        "Nama": "Sains dan Teknologi Farmasi",
+        "Akro": "FA",
+        "Jenjang": "S1",
+        "Fakultas": "SF"
+    },
+    "116": {
+        "Nama": "Farmasi Klinik dan Komunitas",
+        "Akro": "FK",
+        "Jenjang": "S1",
+        "Fakultas": "SF"
+    },
+    "162": {
+        "Nama": "Tahap Tahun Pertama SF",
+        "Akro": "TTPS",
+        "Jenjang": "S1",
+        "Fakultas": "SF"
+    },
+    "907": {
+        "Nama": "Profesi Apoteker",
+        "Akro": "PA",
+        "Jenjang": "Profesi",
+        "Fakultas": "SF"
+    },
+    "207": {
+        "Nama": "Farmasi",
+        "Akro": "FA",
+        "Jenjang": "S2",
+        "Fakultas": "SF"
+    },
+    "217": {
+        "Nama": "Keolahragaan",
+        "Akro": "KO",
+        "Jenjang": "S2",
+        "Fakultas": "SF"
+    },
+    "218": {
+        "Nama": "Farmasi Industri",
+        "Akro": "FD",
+        "Jenjang": "S2",
+        "Fakultas": "SF"
+    },
+    "307": {
+        "Nama": "Farmasi",
+        "Akro": "FA",
+        "Jenjang": "S3",
+        "Fakultas": "SF"
+    },
+    "121": {
+        "Nama": "Teknik Pertambangan",
+        "Akro": "TA",
+        "Jenjang": "S1",
+        "Fakultas": "FTTM"
+    },
+    "122": {
+        "Nama": "Teknik Perminyakan",
+        "Akro": "TM",
+        "Jenjang": "S1",
+        "Fakultas": "FTTM"
+    },
+    "123": {
+        "Nama": "Teknik Geofisika",
+        "Akro": "TG",
+        "Jenjang": "S1",
+        "Fakultas": "FTTM"
+    },
+    "125": {
+        "Nama": "Teknik Metalurgi",
+        "Akro": "MG",
+        "Jenjang": "S1",
+        "Fakultas": "FTTM"
+    },
+    "164": {
+        "Nama": "Tahap Tahun Pertama FTTM",
+        "Akro": "TTPF",
+        "Jenjang": "S1",
+        "Fakultas": "FTTM"
+    },
+    "221": {
+        "Nama": "Rekayasa Pertambangan",
+        "Akro": "TA",
+        "Jenjang": "S2",
+        "Fakultas": "FTTM"
+    },
+    "222": {
+        "Nama": "Teknik Perminyakan",
+        "Akro": "TM",
+        "Jenjang": "S2",
+        "Fakultas": "FTTM"
+    },
+    "223": {
+        "Nama": "Teknik Geofisika",
+        "Akro": "TG",
+        "Jenjang": "S2",
+        "Fakultas": "FTTM"
+    },
+    "225": {
+        "Nama": "Teknik Metalurgi",
+        "Akro": "MG",
+        "Jenjang": "S2",
+        "Fakultas": "FTTM"
+    },
+    "226": {
+        "Nama": "Teknik Geotermal",
+        "Akro": "PB",
+        "Jenjang": "S2",
+        "Fakultas": "FTTM"
+    },
+    "321": {
+        "Nama": "Rekayasa Pertambangan",
+        "Akro": "TA",
+        "Jenjang": "S3",
+        "Fakultas": "FTTM"
+    },
+    "322": {
+        "Nama": "Teknik Perminyakan",
+        "Akro": "TM",
+        "Jenjang": "S3",
+        "Fakultas": "FTTM"
+    },
+    "323": {
+        "Nama": "Teknik Geofisika",
+        "Akro": "TG",
+        "Jenjang": "S3",
+        "Fakultas": "FTTM"
+    },
+    "120": {
+        "Nama": "Teknik Geologi",
+        "Akro": "GL",
+        "Jenjang": "S1",
+        "Fakultas": "FITB"
+    },
+    "128": {
+        "Nama": "Meteorologi",
+        "Akro": "ME",
+        "Jenjang": "S1",
+        "Fakultas": "FITB"
+    },
+    "129": {
+        "Nama": "Oseanografi",
+        "Akro": "OS",
+        "Jenjang": "S1",
+        "Fakultas": "FITB"
+    },
+    "151": {
+        "Nama": "Teknik Geodesi dan Geomatika",
+        "Akro": "GD",
+        "Jenjang": "S1",
+        "Fakultas": "FITB"
+    },
+    "163": {
+        "Nama": "Tahap Tahun Pertama FITB",
+        "Akro": "TTPF",
+        "Jenjang": "S1",
+        "Fakultas": "FITB"
+    },
+    "220": {
+        "Nama": "Teknik Geologi",
+        "Akro": "GL",
+        "Jenjang": "S2",
+        "Fakultas": "FITB"
+    },
+    "224": {
+        "Nama": "Sains Kebumian",
+        "Akro": "SB",
+        "Jenjang": "S2",
+        "Fakultas": "FITB"
+    },
+    "227": {
+        "Nama": "Teknik Air Tanah",
+        "Akro": "AT",
+        "Jenjang": "S2",
+        "Fakultas": "FITB"
+    },
+    "251": {
+        "Nama": "Teknik Geodesi dan Geomatika",
+        "Akro": "GD",
+        "Jenjang": "S2",
+        "Fakultas": "FITB"
+    },
+    "320": {
+        "Nama": "Teknik Geologi",
+        "Akro": "GL",
+        "Jenjang": "S3",
+        "Fakultas": "FITB"
+    },
+    "324": {
+        "Nama": "Sains Kebumian",
+        "Akro": "SB",
+        "Jenjang": "S3",
+        "Fakultas": "FITB"
+    },
+    "351": {
+        "Nama": "Teknik Geodesi dan Geomatika",
+        "Akro": "GD",
+        "Jenjang": "S3",
+        "Fakultas": "FITB"
+    },
+    "130": {
+        "Nama": "Teknik Kimia",
+        "Akro": "TK",
+        "Jenjang": "S1",
+        "Fakultas": "FTI"
+    },
+    "133": {
+        "Nama": "Teknik Fisika",
+        "Akro": "TF",
+        "Jenjang": "S1",
+        "Fakultas": "FTI"
+    },
+    "134": {
+        "Nama": "Teknik Industri",
+        "Akro": "TI",
+        "Jenjang": "S1",
+        "Fakultas": "FTI"
+    },
+    "143": {
+        "Nama": "Teknik Pangan",
+        "Akro": "PG",
+        "Jenjang": "S1",
+        "Fakultas": "FTI"
+    },
+    "144": {
+        "Nama": "Manajemen Rekayasa",
+        "Akro": "MR",
+        "Jenjang": "S1",
+        "Fakultas": "FTI"
+    },
+    "145": {
+        "Nama": "Teknik Bioenergi dan Kemurgi",
+        "Akro": "TB",
+        "Jenjang": "S1",
+        "Fakultas": "FTI"
+    },
+    "167": {
+        "Nama": "Tahap Tahun Pertama FTI",
+        "Akro": "TTPF",
+        "Jenjang": "S1",
+        "Fakultas": "FTI"
+    },
+    "230": {
+        "Nama": "Teknik Kimia",
+        "Akro": "TK",
+        "Jenjang": "S2",
+        "Fakultas": "FTI"
+    },
+    "233": {
+        "Nama": "Teknik Fisika",
+        "Akro": "TF",
+        "Jenjang": "S2",
+        "Fakultas": "FTI"
+    },
+    "234": {
+        "Nama": "Teknik dan Manajemen Industri",
+        "Akro": "TI",
+        "Jenjang": "S2",
+        "Fakultas": "FTI"
+    },
+    "238": {
+        "Nama": "Instrumentasi dan Kontrol",
+        "Akro": "IK",
+        "Jenjang": "S2",
+        "Fakultas": "FTI"
+    },
+    "294": {
+        "Nama": "Logistik",
+        "Akro": "LO",
+        "Jenjang": "S2",
+        "Fakultas": "FTI"
+    },
+    "330": {
+        "Nama": "Teknik Kimia",
+        "Akro": "TK",
+        "Jenjang": "S3",
+        "Fakultas": "FTI"
+    },
+    "333": {
+        "Nama": "Teknik Fisika",
+        "Akro": "TF",
+        "Jenjang": "S3",
+        "Fakultas": "FTI"
+    },
+    "334": {
+        "Nama": "Teknik dan Manajemen Industri",
+        "Akro": "TI",
+        "Jenjang": "S3",
+        "Fakultas": "FTI"
+    },
+    "132": {
+        "Nama": "Teknik Elektro",
+        "Akro": "EL",
+        "Jenjang": "S1",
+        "Fakultas": "STEI"
+    },
+    "135": {
+        "Nama": "Teknik Informatika",
+        "Akro": "IF",
+        "Jenjang": "S1",
+        "Fakultas": "STEI"
+    },
+    "165": {
+        "Nama": "Tahap Tahun Pertama STEI",
+        "Akro": "TTPS",
+        "Jenjang": "S1",
+        "Fakultas": "STEI"
+    },
+    "180": {
+        "Nama": "Teknik Tenaga Listrik",
+        "Akro": "EP",
+        "Jenjang": "S1",
+        "Fakultas": "STEI"
+    },
+    "181": {
+        "Nama": "Teknik Telekomunikasi",
+        "Akro": "ET",
+        "Jenjang": "S1",
+        "Fakultas": "STEI"
+    },
+    "182": {
+        "Nama": "Sistem dan Teknologi Informasi",
+        "Akro": "II",
+        "Jenjang": "S1",
+        "Fakultas": "STEI"
+    },
+    "183": {
+        "Nama": "Teknik Biomedis",
+        "Akro": "EB",
+        "Jenjang": "S1",
+        "Fakultas": "STEI"
+    },
+    "232": {
+        "Nama": "Teknik Elektro",
+        "Akro": "EL",
+        "Jenjang": "S2",
+        "Fakultas": "STEI"
+    },
+    "235": {
+        "Nama": "Informatika",
+        "Akro": "IF",
+        "Jenjang": "S2",
+        "Fakultas": "STEI"
+    },
+    "332": {
+        "Nama": "Teknik Elektro dan Informatika",
+        "Akro": "EI",
+        "Jenjang": "S3",
+        "Fakultas": "STEI"
+    },
+    "131": {
+        "Nama": "Teknik Mesin",
+        "Akro": "MS",
+        "Jenjang": "S1",
+        "Fakultas": "FTMD"
+    },
+    "136": {
+        "Nama": "Teknik Dirgantara",
+        "Akro": "AE",
+        "Jenjang": "S1",
+        "Fakultas": "FTMD"
+    },
+    "137": {
+        "Nama": "Teknik Material",
+        "Akro": "MT",
+        "Jenjang": "S1",
+        "Fakultas": "FTMD"
+    },
+    "169": {
+        "Nama": "Tahap Tahun Pertama FTMD",
+        "Akro": "TTPF",
+        "Jenjang": "S1",
+        "Fakultas": "FTMD"
+    },
+    "231": {
+        "Nama": "Teknik Mesin",
+        "Akro": "MS",
+        "Jenjang": "S2",
+        "Fakultas": "FTMD"
+    },
+    "236": {
+        "Nama": "Teknik Dirgantara",
+        "Akro": "AE",
+        "Jenjang": "S2",
+        "Fakultas": "FTMD"
+    },
+    "237": {
+        "Nama": "Ilmu dan Teknik Material",
+        "Akro": "MT",
+        "Jenjang": "S2",
+        "Fakultas": "FTMD"
+    },
+    "331": {
+        "Nama": "Teknik Mesin",
+        "Akro": "MS",
+        "Jenjang": "S3",
+        "Fakultas": "FTMD"
+    },
+    "336": {
+        "Nama": "Teknik Dirgantara",
+        "Akro": "AE",
+        "Jenjang": "S3",
+        "Fakultas": "FTMD"
+    },
+    "337": {
+        "Nama": "Ilmu dan Teknik Material",
+        "Akro": "MT",
+        "Jenjang": "S3",
+        "Fakultas": "FTMD"
+    },
+    "150": {
+        "Nama": "Teknik Sipil",
+        "Akro": "SI",
+        "Jenjang": "S1",
+        "Fakultas": "FTSL"
+    },
+    "153": {
+        "Nama": "Teknik Lingkungan",
+        "Akro": "TL",
+        "Jenjang": "S1",
+        "Fakultas": "FTSL"
+    },
+    "155": {
+        "Nama": "Teknik Kelautan",
+        "Akro": "KL",
+        "Jenjang": "S1",
+        "Fakultas": "FTSL"
+    },
+    "157": {
+        "Nama": "Rekayasa Infrastruktur Lingkungan",
+        "Akro": "IL",
+        "Jenjang": "S1",
+        "Fakultas": "FTSL"
+    },
+    "158": {
+        "Nama": "Teknik dan Pengelolaan Sumber Daya Air",
+        "Akro": "SA",
+        "Jenjang": "S1",
+        "Fakultas": "FTSL"
+    },
+    "166": {
+        "Nama": "Tahap Tahun Pertama FTSL",
+        "Akro": "TTPF",
+        "Jenjang": "S1",
+        "Fakultas": "FTSL"
+    },
+    "250": {
+        "Nama": "Teknik Sipil",
+        "Akro": "SI",
+        "Jenjang": "S2",
+        "Fakultas": "FTSL"
+    },
+    "253": {
+        "Nama": "Teknik Lingkungan",
+        "Akro": "TL",
+        "Jenjang": "S2",
+        "Fakultas": "FTSL"
+    },
+    "255": {
+        "Nama": "Teknik Kelautan",
+        "Akro": "KL",
+        "Jenjang": "S2",
+        "Fakultas": "FTSL"
+    },
+    "257": {
+        "Nama": "Pengelolaan Infrastruktur Air Bersih dan Sanitasi",
+        "Akro": "IS",
+        "Jenjang": "S2",
+        "Fakultas": "FTSL"
+    },
+    "258": {
+        "Nama": "Pengelolaan Sumberdaya Air (PSDA)",
+        "Akro": "SA",
+        "Jenjang": "S2",
+        "Fakultas": "FTSL"
+    },
+    "269": {
+        "Nama": "Sistem dan Teknik Jalan Raya",
+        "Akro": "SJ",
+        "Jenjang": "S2",
+        "Fakultas": "FTSL"
+    },
+    "350": {
+        "Nama": "Teknik Sipil",
+        "Akro": "SI",
+        "Jenjang": "S3",
+        "Fakultas": "FTSL"
+    },
+    "353": {
+        "Nama": "Teknik Lingkungan",
+        "Akro": "TL",
+        "Jenjang": "S3",
+        "Fakultas": "FTSL"
+    },
+    "152": {
+        "Nama": "Arsitektur",
+        "Akro": "AR",
+        "Jenjang": "S1",
+        "Fakultas": "SAPPK"
+    },
+    "154": {
+        "Nama": "Perencanaan Wilayah dan Kota",
+        "Akro": "PL",
+        "Jenjang": "S1",
+        "Fakultas": "SAPPK"
+    },
+    "199": {
+        "Nama": "Tahap Tahun Pertama SAPPK",
+        "Akro": "TTPS",
+        "Jenjang": "S1",
+        "Fakultas": "SAPPK"
+    },
+    "240": {
+        "Nama": "Studi Pembangunan",
+        "Akro": "SP",
+        "Jenjang": "S2",
+        "Fakultas": "SAPPK"
+    },
+    "242": {
+        "Nama": "Transportasi",
+        "Akro": "TR",
+        "Jenjang": "S2",
+        "Fakultas": "SAPPK"
+    },
+    "252": {
+        "Nama": "Arsitektur",
+        "Akro": "AR",
+        "Jenjang": "S2",
+        "Fakultas": "SAPPK"
+    },
+    "254": {
+        "Nama": "Perencanaan Wilayah dan Kota",
+        "Akro": "PL",
+        "Jenjang": "S2",
+        "Fakultas": "SAPPK"
+    },
+    "256": {
+        "Nama": "Rancang Kota",
+        "Akro": "RK",
+        "Jenjang": "S2",
+        "Fakultas": "SAPPK"
+    },
+    "288": {
+        "Nama": "Perencanaan Kepariwisataan",
+        "Akro": "PK",
+        "Jenjang": "S2",
+        "Fakultas": "SAPPK"
+    },
+    "289": {
+        "Nama": "Arsitektur Lanskap",
+        "Akro": "AL",
+        "Jenjang": "S2",
+        "Fakultas": "SAPPK"
+    },
+    "342": {
+        "Nama": "Transportasi",
+        "Akro": "TR",
+        "Jenjang": "S3",
+        "Fakultas": "SAPPK"
+    },
+    "352": {
+        "Nama": "Arsitektur",
+        "Akro": "AR",
+        "Jenjang": "S3",
+        "Fakultas": "SAPPK"
+    },
+    "354": {
+        "Nama": "Perencanaan Wilayah dan Kota",
+        "Akro": "PL",
+        "Jenjang": "S3",
+        "Fakultas": "SAPPK"
+    },
+    "168": {
+        "Nama": "Tahap Tahun Pertama FSRD",
+        "Akro": "TTPF",
+        "Jenjang": "S1",
+        "Fakultas": "FSRD"
+    },
+    "170": {
+        "Nama": "Seni Rupa",
+        "Akro": "SR",
+        "Jenjang": "S1",
+        "Fakultas": "FSRD"
+    },
+    "172": {
+        "Nama": "Kriya",
+        "Akro": "KR",
+        "Jenjang": "S1",
+        "Fakultas": "FSRD"
+    },
+    "173": {
+        "Nama": "Desain Interior",
+        "Akro": "DI",
+        "Jenjang": "S1",
+        "Fakultas": "FSRD"
+    },
+    "174": {
+        "Nama": "Desain Komunikasi Visual",
+        "Akro": "DK",
+        "Jenjang": "S1",
+        "Fakultas": "FSRD"
+    },
+    "175": {
+        "Nama": "Desain Produk",
+        "Akro": "DP",
+        "Jenjang": "S1",
+        "Fakultas": "FSRD"
+    },
+    "179": {
+        "Nama": "Mata Kuliah Umum (MKU)",
+        "Akro": "KU",
+        "Jenjang": "S1",
+        "Fakultas": "FSRD"
+    },
+    "270": {
+        "Nama": "Seni Rupa",
+        "Akro": "SR",
+        "Jenjang": "S2",
+        "Fakultas": "FSRD"
+    },
+    "271": {
+        "Nama": "Desain",
+        "Akro": "DS",
+        "Jenjang": "S2",
+        "Fakultas": "FSRD"
+    },
+    "370": {
+        "Nama": "Ilmu Seni Rupa dan Desain",
+        "Akro": "SD",
+        "Jenjang": "S3",
+        "Fakultas": "FSRD"
+    },
+    "190": {
+        "Nama": "Manajemen",
+        "Akro": "MB",
+        "Jenjang": "S1",
+        "Fakultas": "SBM"
+    },
+    "192": {
+        "Nama": "Kewirausahaan",
+        "Akro": "MK",
+        "Jenjang": "S1",
+        "Fakultas": "SBM"
+    },
+    "197": {
+        "Nama": "Tahap Tahun Pertama SBM",
+        "Akro": "TTPS",
+        "Jenjang": "S1",
+        "Fakultas": "SBM"
+    },
+    "290": {
+        "Nama": "Sains Manajemen",
+        "Akro": "MB",
+        "Jenjang": "S2",
+        "Fakultas": "SBM"
+    },
+    "291": {
+        "Nama": "Administrasi Bisnis",
+        "Akro": "MM",
+        "Jenjang": "S2",
+        "Fakultas": "SBM"
+    },
+    "293": {
+        "Nama": "Administrasi Bisnis (Kampus Jakarta)",
+        "Akro": "MM",
+        "Jenjang": "S2",
+        "Fakultas": "SBM"
+    },
+    "390": {
+        "Nama": "Sains Manajemen",
+        "Akro": "MB",
+        "Jenjang": "S3",
+        "Fakultas": "SBM"
+    },
+    "287": {
+        "Nama": "Teknologi Nano",
+        "Akro": "NT",
+        "Jenjang": "S2",
+        "Fakultas": "SPS"
+    },
+    "387": {
+        "Nama": "Sains dan Teknologi Nano",
+        "Akro": "NT",
+        "Jenjang": "S3",
+        "Fakultas": "SPS"
+    },
+    "100": {
+        "Nama": "Non Reguler Sarjana",
+        "Akro": "NRS",
+        "Jenjang": "S1",
+        "Fakultas": "NONFS"
+    },
+    "900": {
+        "Nama": "Program Profesi Insinyur",
+        "Akro": "PI",
+        "Jenjang": "Profesi",
+        "Fakultas": "NONFS"
+    },
+    "914": {
+        "Nama": "PPI Rekayasa Pertanian",
+        "Akro": "PI",
+        "Jenjang": "Profesi",
+        "Fakultas": "NONFS"
+    },
+    "915": {
+        "Nama": "PPI Rekayasa Kehutanan",
+        "Akro": "PI",
+        "Jenjang": "Profesi",
+        "Fakultas": "NONFS"
+    },
+    "920": {
+        "Nama": "PPI Teknik Geologi",
+        "Akro": "PI",
+        "Jenjang": "Profesi",
+        "Fakultas": "NONFS"
+    },
+    "921": {
+        "Nama": "PPI Teknik Pertambangan",
+        "Akro": "PI",
+        "Jenjang": "Profesi",
+        "Fakultas": "NONFS"
+    },
+    "922": {
+        "Nama": "PPI Teknik Perminyakan",
+        "Akro": "PI",
+        "Jenjang": "Profesi",
+        "Fakultas": "NONFS"
+    },
+    "923": {
+        "Nama": "PPI Teknik Geofisika",
+        "Akro": "PI",
+        "Jenjang": "Profesi",
+        "Fakultas": "NONFS"
+    },
+    "925": {
+        "Nama": "PPI Teknik Metalurgi",
+        "Akro": "PI",
+        "Jenjang": "Profesi",
+        "Fakultas": "NONFS"
+    },
+    "930": {
+        "Nama": "PPI Teknik Kimia",
+        "Akro": "PI",
+        "Jenjang": "Profesi",
+        "Fakultas": "NONFS"
+    },
+    "931": {
+        "Nama": "PPI Teknik Mesin",
+        "Akro": "PI",
+        "Jenjang": "Profesi",
+        "Fakultas": "NONFS"
+    },
+    "932": {
+        "Nama": "PPI Teknik Elektro",
+        "Akro": "PI",
+        "Jenjang": "Profesi",
+        "Fakultas": "NONFS"
+    },
+    "933": {
+        "Nama": "PPI Teknik Fisika",
+        "Akro": "PI",
+        "Jenjang": "Profesi",
+        "Fakultas": "NONFS"
+    },
+    "934": {
+        "Nama": "PPI Teknik Industri",
+        "Akro": "PI",
+        "Jenjang": "Profesi",
+        "Fakultas": "NONFS"
+    },
+    "936": {
+        "Nama": "PPI Teknik Dirgantara",
+        "Akro": "PI",
+        "Jenjang": "Profesi",
+        "Fakultas": "NONFS"
+    },
+    "937": {
+        "Nama": "PPI Teknik Material",
+        "Akro": "PI",
+        "Jenjang": "Profesi",
+        "Fakultas": "NONFS"
+    },
+    "950": {
+        "Nama": "PPI Teknik Sipil",
+        "Akro": "PI",
+        "Jenjang": "Profesi",
+        "Fakultas": "NONFS"
+    },
+    "951": {
+        "Nama": "PPI Teknik Geodesi dan Geomatika",
+        "Akro": "PI",
+        "Jenjang": "Profesi",
+        "Fakultas": "NONFS"
+    },
+    "953": {
+        "Nama": "PPI Teknik Lingkungan",
+        "Akro": "PI",
+        "Jenjang": "Profesi",
+        "Fakultas": "NONFS"
+    },
+    "955": {
+        "Nama": "PPI Teknik Kelautan",
+        "Akro": "PI",
+        "Jenjang": "Profesi",
+        "Fakultas": "NONFS"
+    }
+}
